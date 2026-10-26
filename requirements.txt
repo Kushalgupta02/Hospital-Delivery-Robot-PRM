@@ -1,0 +1,5 @@
+numpy
+scipy
+networkx
+matplotlib
+coppeliasim-zmqremoteapi-client   # only needed for the CoppeliaSim backend
